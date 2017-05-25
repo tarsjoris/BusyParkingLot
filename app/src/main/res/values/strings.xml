@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Busy Parking Lot</string>
+    <string name="lot_help_title">Help</string>
+    <string name="lot_help_message">The purpose is to get the car with the white dot off the parking lot. Move the cars around until it reaches the far right edge.</string>
+    <string name="lot_help_ok">Close</string>
+    <string name="lot_button_help">Help</string>
+    <string name="lot_button_reset">Reset</string>
+    <string name="lot_button_hint">Hint</string>
+    <string name="lot_button_next">Next</string>
+</resources>

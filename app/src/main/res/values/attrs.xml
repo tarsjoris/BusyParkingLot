@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CarView">
+    	<attr name="number" format="integer" />
+    	<attr name="length" format="integer" />
+    	<attr name="horizontal" format="boolean" />
+	</declare-styleable>
+	<declare-styleable name="LevelsView">
+		<attr name="cols" format="integer" />
+	</declare-styleable>
+</resources>
